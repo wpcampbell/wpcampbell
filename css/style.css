@@ -8,6 +8,9 @@ h1 {
 	font-size: 35px;
 	border: solid #dedede
 	
+
+	
+	
 		
 }
 
@@ -26,7 +29,5 @@ img {
 	
 p {
 	font-size:large;
-	
+	font-family:'Courier New', Courier, monospace
 }
-
-
